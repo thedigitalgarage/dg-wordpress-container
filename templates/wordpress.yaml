@@ -175,7 +175,7 @@ parameters:
   displayName: Name
   name: NAME
   required: true
-  value: wordpress
+  value: wordpress-instant-app
 - description: The exposed hostname that will route to the Wordpress service, if left
     blank a value will be defaulted
   displayName: Application Hostname
